@@ -12,4 +12,6 @@ P2P传输(流媒体+P2P)SDK库，用于支持应用程序进行内网穿透通�
 
 内网穿透率极高，是UDP穿透的完全解决方案。支持Cone NAT，Symmetric NAT等类型路由的穿越。
 
+基于ppeasy的p2p播放器: https://github.com/SeaHaige/pkplayer
+
 QQ交流群：466907566
