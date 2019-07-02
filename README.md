@@ -48,6 +48,7 @@ player.play( PPeasyService.p2pvideo(getUrl()));
 初始化：  
 
 void ppeasy_init();
+
 ppeasy_init();
 
 播放时候调用：
