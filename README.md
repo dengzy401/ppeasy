@@ -1,5 +1,9 @@
+
+
 P2P传输(流媒体+P2P)SDK库，用于支持应用程序进行内网穿透通信，跨平台支持Windows、Linux、Android和IOS平台，具备高流畅度、低延迟的传输特性，广泛应用于网络直播、文件传输、即时通讯程序和WEB网页中。
 内网穿透率极高，是UDP穿透的完全解决方案。支持Cone NAT，Symmetric NAT等类型路由的穿越。
+
+该库已不再维护，请前往[Pktorrent](https://github.com/SeaHaige/pktorrent) 获取更新
 
 基于PPeasy的开源播放器项目: https://github.com/SeaHaige/pkplayer
 
